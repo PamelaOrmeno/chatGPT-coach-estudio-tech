@@ -1,6 +1,6 @@
 # 🎓 Coach de Estudio Tech
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=PamelaOrmeno.chatGPT-coach-estudio-tech)
+![Visitas](https://komarev.com/ghpvc/?username=PamelaOrmeno&repo=chatGPT-coach-estudio-tech&color=blue&label=Visitas)
 
 Asistente personalizado para personas que están aprendiendo programación, ciencia de datos o tecnología. Ayuda a entender conceptos, practicar con ejercicios, generar visualizaciones y entregar notebooks bien organizados.
 
