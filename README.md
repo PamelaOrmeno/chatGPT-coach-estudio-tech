@@ -16,10 +16,6 @@ Asistente de IA personalizado con ChatGPT, diseñado para personas que estén cu
     <img src="./assets/imageChatGPT.png" alt="Flow Coach Empleo" width="500"/>
 </p>
 
-Asistente de IA personalizado con ChatGPT, diseñado para personas que estén cursando programas intensivos, bootcamps o formación autodidacta en tecnología. Este GPT te acompaña en la organización de estudios, fijación de metas semanales, práctica con ejercicios y consolidación de conocimientos técnicos.
-
-🔍 Este GPT nace desde mi experiencia real enfrentando procesos de formación técnica exigente, buscando una herramienta que fuera práctica, cercana y enfocada.
-
 ---
 
 ## ✅ Funcionalidades principales
